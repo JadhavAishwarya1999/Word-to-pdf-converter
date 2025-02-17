@@ -15,7 +15,7 @@ Frontend (React.js)
 React.js – Component-based UI development.
 Tailwind CSS – Modern and responsive styling.
 React Dropzone – For smooth file uploads.
-Backend (Node.js + Express.js)
+Backend (Node.js + Express.js).
 Express.js – Backend framework for handling API requests.
 Multer – Middleware for handling file uploads.
 Docx-PDF Libraries – docx-pdf for conversion.
